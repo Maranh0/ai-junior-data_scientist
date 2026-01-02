@@ -90,13 +90,11 @@ def build_agent_executor() -> AgentExecutor:
     agent = initialize_agent(
         tools=tools,
         llm=llm,
-        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,  # classic agent type
+        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,  
         verbose=True,
         handle_parsing_errors=True,
     )
 
-    # initialize_agent already returns an AgentExecutor in classic API,
-    # but to be explicit we can type-hint it as AgentExecutor.
     return agent
 
 
